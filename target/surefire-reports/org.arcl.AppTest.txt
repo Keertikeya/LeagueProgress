@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: org.arcl.AppTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.812 s - in org.arcl.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.957 s - in org.arcl.AppTest
